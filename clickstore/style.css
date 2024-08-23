@@ -1,0 +1,36 @@
+body{
+
+    background-color: rgb(255, 244, 208);
+    
+}
+
+h1{
+    color: rgb(0, 0, 0);
+    text-align: center;
+    font-size: 350%;
+}
+h2{
+    color: rgb(255, 0, 0);
+    text-align: center;
+    font-size: 150%;
+}
+.button{
+    text-align: center;
+}
+
+.bis14 {
+text-align: center;
+}
+img:hover {
+    text-align: center;
+width: 60%;
+height: 60%;
+}
+.chicocons {
+    text-align: center;
+    }
+.chicocons :hover{
+    text-align: center;
+    width: 60%;
+    height: 60%;
+}
